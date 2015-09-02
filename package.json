@@ -1,0 +1,19 @@
+{
+  "name": "time-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/screencloud/time-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/screencloud/time-sync/issues"
+  },
+  "homepage": "https://github.com/screencloud/time-sync#readme"
+}
